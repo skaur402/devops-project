@@ -1,4 +1,6 @@
 My DevOps Project
 Second update
 Login feature added
-Signup feature added"Fixed UI bug" 
+Signup feature added
+Fixed login bug
+Fixed UI bug
