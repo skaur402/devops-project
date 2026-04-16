@@ -1,3 +1,4 @@
-"My DevOps Project" 
-"Second update" 
-"Signup feature added" 
+My DevOps Project
+Second update
+Login feature added
+Signup feature added
